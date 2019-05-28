@@ -1,0 +1,12 @@
+.header {
+    height: 95vh;
+    background-image: url(../img/header-img.jpg);
+    background-size: cover;
+    background-position: top;
+
+    &__text-box {
+        background-color: orangered;
+        height: 5rem;
+        width: 5rem;
+    }
+}

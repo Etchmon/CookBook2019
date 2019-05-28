@@ -1,0 +1,22 @@
+{
+  "name": "cookbook2019",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Etchmon/CookBook2019.git"
+  },
+  "author": "Etchmon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Etchmon/CookBook2019/issues"
+  },
+  "homepage": "https://github.com/Etchmon/CookBook2019#readme",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
